@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1575208056 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\iofunctions.c
+	"iofunctions.h"
+
+1575207531 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\iofunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1574632890 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\list.c
+	"list.h"
+	<stdio.h>
+
+1574632065 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\list.h
+
+1575208061 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\main.c
+	"iofunctions.h"
+	"timemanage.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	"tables.h"
+	"menu.h"
+	"orders.h"
+	"reserv.h"
+
+1575199759 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\timemanage.h
+	<stdbool.h>
+	<time.h>
+	"iofunctions.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575054725 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1574691860 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575199755 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\tables.h
+	"iofunctions.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	<stdbool.h>
+
+1575199739 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\menu.h
+	"iofunctions.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	<stdbool.h>
+
+1575199745 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\orders.h
+	"tables.h"
+	"menu.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575199750 c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\reserv.h
+	"timemanage.h"
+	"tables.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575208053 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\menu.c
+	"menu.h"
+
+1575208288 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\orders.c
+	"orders.h"
+
+1575208046 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\reserv.c
+	"reserv.h"
+
+1575208041 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\tables.c
+	"tables.h"
+
+1575208227 source:c:\users\bened\desktop\suli\prog1\hf\hf_beandando\etterem_program_xxcayj\timemanage.c
+	"timemanage.h"
+
+1575211656 source:e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\iofunctions.c
+	"iofunctions.h"
+
+1575211131 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\iofunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575058325 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1574695460 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575211661 source:e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\main.c
+	"iofunctions.h"
+	"timemanage.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	"tables.h"
+	"menu.h"
+	"orders.h"
+	"reserv.h"
+
+1575203359 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\timemanage.h
+	<stdbool.h>
+	<time.h>
+	"iofunctions.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575203355 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\tables.h
+	"iofunctions.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	<stdbool.h>
+
+1575203339 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\menu.h
+	"iofunctions.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	<stdbool.h>
+
+1575203345 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\orders.h
+	"tables.h"
+	"menu.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575203350 e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\reserv.h
+	"timemanage.h"
+	"tables.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575211653 source:e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\menu.c
+	"menu.h"
+
+1575211888 source:e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\orders.c
+	"orders.h"
+
+1575211646 source:e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\reserv.c
+	"reserv.h"
+
+1575211641 source:e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\tables.c
+	"tables.h"
+
+1575211827 source:e:\desktop\suli\1.félév\prog1\hf\hf_beandando\etterem_program_xxcayj\timemanage.c
+	"timemanage.h"
+
